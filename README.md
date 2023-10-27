@@ -1,5 +1,4 @@
 # Hospital-Management-System
-# Hospital Management System
 
 This is a Hospital Management System (HMS) project developed using various programming languages, including HTML, C#, TSQL, CSS, and JavaScript. The system is designed to streamline and automate various administrative and clinical operations within a hospital or healthcare facility. It provides an efficient way to manage patient information, appointments, billing, and more.
 
